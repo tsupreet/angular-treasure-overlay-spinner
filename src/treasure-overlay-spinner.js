@@ -15,7 +15,7 @@
   var TEMPLATE = '';
   TEMPLATE += '<div class="treasure-overlay-spinner-content">';
   TEMPLATE +=   '<div class="treasure-overlay-spinner-container">';
-  TEMPLATE +=     '<div class="treasure-overlay-spinner"></div>';
+  TEMPLATE +=     '<img class="center-logo" src="assets/images/spire_s.png"/><div class="treasure-overlay-spinner"></div>';
   TEMPLATE +=   '</div>';
   TEMPLATE +=   '<ng-transclude></ng-transclude>';
   TEMPLATE += '</div>';
